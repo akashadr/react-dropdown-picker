@@ -3,13 +3,24 @@
 # CustomSelect Component
 
 A customizable dropdown component for selecting options.
+![](https://github.com/akashadr/react-dropdown-picker/blob/main/gifs/react-dropdown-picker-first.gif)
+![](https://github.com/akashadr/react-dropdown-picker/blob/main/gifs/react-dropdown-picker-second.gif)
+
+
+## Installation
+
+```markdown
+npm install react-dropdown-picker  # using npm
+yarn add react-dropdown-picker     # using yarn
+```
 
 ## Features
 
-- Feature 1: configurable via props.
-- Feature 2: stylable via css (or custom components).
-- Feature 3: Best dropdown for small number of options
-- Feature 4:small bundle size.
+- Configurable via props.
+- Stylable via css (or custom components).
+- Best dropdown for small number of options.
+- Zero Dependency
+- Small bundle size.
 
 ## Example Usage
 
