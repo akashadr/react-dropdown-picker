@@ -2,8 +2,9 @@
 
 A customizable dropdown component for selecting options.
 
-![](./gifs/react-dropdown-picker-first.gif)
-![](./gifs/react-dropdown-picker-second.gif)
+![](https://github.com/akashadr/react-dropdown-picker/blob/main/gifs/react-dropdown-picker-first.gif)
+![](https://github.com/akashadr/react-dropdown-picker/blob/main/gifs/react-dropdown-picker-second.gif)
+
 
 ## Installation
 
