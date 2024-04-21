@@ -15,11 +15,14 @@ yarn add react-dropdown-picker     # using yarn
 
 ## Features
 
-- Configurable via props.
-- Stylable via css (or custom components).
-- Best dropdown for small number of options.
-- Zero Dependency
-- Small bundle size.
+- ✅Configurable via props.
+- ✅Stylable via css (or custom components).
+- ✅Best dropdown for small number of options.
+  - ✔️ AM/PM
+  - ✔️ Weekly/Monthly/Yearly
+  - ✔️ Online/Offline
+- ✅Zero Dependency.
+- ✅Small bundle size.
 
 ## Example Usage
 
