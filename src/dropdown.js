@@ -67,7 +67,7 @@ const CustomSelect = ({ options, defaultOption, onSelect, width, zIndex, isUpwar
   };
 
   return (
-    <div style={{ position: 'relative', display: 'inline-block', margin: 300 }}>
+    <div style={{ position: 'relative', display: 'inline-block'}}>
       <div
         style={{
           width: `${width}px`,
