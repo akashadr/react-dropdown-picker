@@ -53,6 +53,7 @@ const MyComponent = () => {
         options={options}
         defaultOption={selectedRange}
         onSelect={handleRangeChange}
+        width={30}
       />
     </div>
   );
@@ -149,7 +150,7 @@ const MyComponent = () => {
         options={options}
         defaultOption={selectedRange}
         onSelect={handleRangeChange}
-        width={100}
+        width={30}
         zIndex={1}
         isUpward={true}
         selectedOptionStyle={selectedOptionStyle}
