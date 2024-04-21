@@ -1,12 +1,9 @@
 # react-dropdown-picker
 
-# CustomSelect Component
-
 A customizable dropdown component for selecting options.
 
-![](https://github.com/akashadr/react-dropdown-picker/blob/main/gifs/react-dropdown-picker-first.gif)
-![](https://github.com/akashadr/react-dropdown-picker/blob/main/gifs/react-dropdown-picker-second.gif)
-
+![](./gifs/react-dropdown-picker-first.gif)
+![](./gifs/react-dropdown-picker-second.gif)
 
 ## Installation
 
