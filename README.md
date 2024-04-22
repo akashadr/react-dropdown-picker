@@ -75,7 +75,7 @@ export default MyComponent;
 | `isUpward`        | boolean    | false      | Determines whether the dropdown should open upward or downward.                                                          |
 | `selectedOptionStyle` | object  |            | Custom styles for the selected option.                                                                                   |
 | `dropdownItemStyle`   | object  |            | Custom styles for the dropdown items.   
-                                                       |
+                                                       
 
 ### `selectedOptionStyle` Properties
 
@@ -163,3 +163,7 @@ const MyComponent = () => {
 export default MyComponent;
 
 ```
+
+### License
+
+[MIT](https://github.com/akashadr/react-dropdown-picker/blob/main/LICENSE)
